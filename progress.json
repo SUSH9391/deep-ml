@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:50:19.065Z",
+  "generated_at": "2026-09-21T06:50:20.847Z",
   "items": {
     "problem:65": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-08-19T18:22:34.974Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:249": {
+      "kind": "problem",
+      "id": "249",
+      "title": "Calculate Batch Prediction Health Metrics",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/249",
+      "path": "problems/0249-calculate-batch-prediction-health-metrics",
+      "first_solved_at": "2026-08-20T18:00:18.438Z",
+      "last_pushed_at": "2026-08-20T18:00:18.438Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
