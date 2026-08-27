@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:50:30.414Z",
+  "generated_at": "2026-09-21T06:50:32.027Z",
   "items": {
     "problem:65": {
       "kind": "problem",
@@ -310,6 +310,19 @@
       "path": "problems/0231-temperature-decay-scheduler",
       "first_solved_at": "2026-08-26T10:42:41.751Z",
       "last_pushed_at": "2026-08-26T10:42:41.751Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:965": {
+      "kind": "problem",
+      "id": "965",
+      "title": "Construct Causal Attention Mask via tril and triu Methods",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/965",
+      "path": "problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods",
+      "first_solved_at": "2026-08-27T18:15:53.414Z",
+      "last_pushed_at": "2026-08-27T18:15:53.414Z",
       "language": "python",
       "lines": 37
     }
