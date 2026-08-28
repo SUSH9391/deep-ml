@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:50:32.027Z",
+  "generated_at": "2026-09-21T06:50:33.648Z",
   "items": {
     "problem:65": {
       "kind": "problem",
@@ -325,6 +325,19 @@
       "last_pushed_at": "2026-08-27T18:15:53.414Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:247": {
+      "kind": "problem",
+      "id": "247",
+      "title": "Negative Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/247",
+      "path": "problems/0247-negative-binomial-distribution-probability",
+      "first_solved_at": "2026-08-28T18:18:10.184Z",
+      "last_pushed_at": "2026-08-28T18:18:10.184Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
