@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:50:35.371Z",
+  "generated_at": "2026-09-21T06:50:37.410Z",
   "items": {
     "problem:65": {
       "kind": "problem",
@@ -351,6 +351,19 @@
       "last_pushed_at": "2026-08-29T17:32:38.773Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:728": {
+      "kind": "problem",
+      "id": "728",
+      "title": "Data-Efficient Action Mapping with Few Labeled Expert Samples",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/728",
+      "path": "problems/0728-data-efficient-action-mapping-with-few-labeled-expert-samples",
+      "first_solved_at": "2026-08-31T17:38:37.317Z",
+      "last_pushed_at": "2026-08-31T17:38:37.317Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
