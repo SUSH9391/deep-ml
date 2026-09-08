@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:50:39.043Z",
+  "generated_at": "2026-09-21T06:50:40.724Z",
   "items": {
     "problem:65": {
       "kind": "problem",
@@ -377,6 +377,19 @@
       "last_pushed_at": "2026-09-07T06:39:10.027Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-09-08T05:13:05.003Z",
+      "last_pushed_at": "2026-09-08T05:13:05.003Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
