@@ -1,6 +1,8 @@
 
+import numpy as np
 def scalar_multiply(matrix: list[list[int|float]], scalar: int|float) -> list[list[int|float]]:
 	# Your code here
-	
+	arr = np.array(matrix)
+	result = scalar * arr
+	return result.tolist()
 	pass
-	return [[element * scalar for element in row] for row in matrix]
