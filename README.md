@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 37 problems · 1 labs · 4 math
+**43** solved · 38 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-19 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-22 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-18 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-23 | [solution](problems/0121-vector-element-wise-sum) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-08-22 | [solution](problems/0079-binomial-distribution-probability) |
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-08-14 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
