@@ -10,5 +10,5 @@ def calculate_dot_product(vec1, vec2):
 		The dot product of the two vectors.
 	"""
 	# Your code here
+	return np.dot(vec1,vec2)
 	pass
-	return (vec1 @ vec2)
