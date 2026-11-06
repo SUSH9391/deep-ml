@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:44:46.855Z",
+  "generated_at": "2026-11-06T13:52:15.458Z",
   "items": {
     "problem:65": {
       "kind": "problem",
@@ -638,6 +638,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-11-06T13:44:46.433Z",
       "last_pushed_at": "2026-11-06T13:44:46.433Z"
+    },
+    "problem:801": {
+      "kind": "problem",
+      "id": "801",
+      "title": "Polynomial Regression Fit",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/801",
+      "path": "problems/0801-polynomial-regression-fit",
+      "first_solved_at": "2026-11-06T13:52:14.452Z",
+      "last_pushed_at": "2026-11-06T13:52:14.452Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
