@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:37:06.128Z",
+  "generated_at": "2026-11-08T17:25:47.123Z",
   "items": {
     "problem:65": {
       "kind": "problem",
@@ -664,6 +664,19 @@
       "last_pushed_at": "2026-11-07T12:37:07.482Z",
       "language": "python",
       "lines": 109
+    },
+    "problem:1818": {
+      "kind": "problem",
+      "id": "1818",
+      "title": "Robust Line Fitting: Least Absolute Deviations by LP and Huber by IRLS",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1818",
+      "path": "problems/1818-robust-line-fitting-least-absolute-deviations-by-lp-and-huber-by-irls",
+      "first_solved_at": "2026-11-08T17:25:45.639Z",
+      "last_pushed_at": "2026-11-08T17:25:45.639Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
